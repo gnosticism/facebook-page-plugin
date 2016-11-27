@@ -2,11 +2,11 @@
 
 /*
  * Plugin Name: FB PageLike by Anup
- * Plugin URI: http://backspacelab.com/
+ * Plugin URI: https://github.com/gnosticism
  * Description: FB PageLike by Anup
  * Version: 1.0
- * Author: Anup K. (BackspaceLab)
- * Author URI: http://backspacelab.com/
+ * Author: Anup
+ * Author URI: https://github.com/gnosticism
  * License: GPL2
  */
 class wp_my_plugin extends WP_Widget {
