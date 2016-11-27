@@ -3,7 +3,7 @@ A wordpress plugin for facebook page like box inside posts and sidebar widget.
 
 # How to use it?
 
-Two ways to do it:
+**Two ways to do it:**
 
 1. Find the plugin in widgets and fill in the required details.
 
@@ -11,7 +11,7 @@ Two ways to do it:
 
 After installation, wherever you want the likebox to appear on post In your post
 
-[fb-like-by-anup  url="" width="" height="" faces="" hidecover="" posts=""]
+`[fb-like-by-anup  url="" width="" height="" faces="" hidecover="" posts=""]`
 
 Shortcode parameters:
 
